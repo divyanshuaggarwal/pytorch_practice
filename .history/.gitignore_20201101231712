@@ -1,0 +1,4 @@
+*data
+MNIST
+lightning_logs
+data
