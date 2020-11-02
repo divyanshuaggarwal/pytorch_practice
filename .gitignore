@@ -2,3 +2,8 @@
 MNIST
 lightning_logs
 data
+dataset
+.history
+.data
+.vector_cache
+tb_logs
